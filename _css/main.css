@@ -165,9 +165,6 @@ pre {
 
 /*Address margins set differently in Firefox 4+, Safari 5, and Chrome.*/
 
-h1 {
-  color: red;
-}
 button, input,optgroup,select,textarea {
   margin: 0;
 }
